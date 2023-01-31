@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Shantanu-Meta
-- 👀 I’m interested in developing projects & contribute
-- 🌱 I’m currently learning C++ and Web Development
+- 👀 I’m interested in web & software development and have desire to contribute on open source.
+- 🌱 I’m currently learning C++(DSA) and Front-end Development.
+- Proficient with- C, C++, HTMl, CSS
 - 📫 Do contact me: https://www.linkedin.com/in/shantanu-dutta-4a1754245/
 
 <!---
